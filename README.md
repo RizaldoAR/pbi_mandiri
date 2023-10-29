@@ -1,4 +1,5 @@
 # PROJECT BASED INTERNSHIP MANDIRI X RAKEMIN ACADEMY
+![Screenshot_1698592946](https://github.com/RizaldoAR/pbi_mandiri/assets/36756266/79d6ac75-ebf0-473d-83af-05b41f48ac2f)
 
 # Modern News App
 
@@ -18,7 +19,8 @@ Aplikasi ini memungkinkan Anda untuk menjelajahi berita terbaru dari berbagai su
 
 1. Clone repositori ini ke dalam direktori lokal Anda:
 
-   ```bash
+
+
    git clone https://github.com/your-username/modern-news-app.git
 
 Pindah ke direktori proyek:
