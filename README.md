@@ -11,6 +11,12 @@ Aplikasi ini memungkinkan Anda untuk menjelajahi berita terbaru dari berbagai su
 
 ![Screenshot_1698592946](https://github.com/RizaldoAR/pbi_mandiri/assets/36756266/79d6ac75-ebf0-473d-83af-05b41f48ac2f)
 
+
+##DOWNLOAD APP
+https://drive.google.com/drive/u/0/folders/1-pYvjpHUWjuarqex3goAAAXVEzddnu0U
+![image](https://github.com/RizaldoAR/pbi_mandiri/assets/36756266/246ff907-d8b6-4223-bb4c-926d2ffb4106)
+
+
 ## Prasyarat
 
 - [Node.js](https://nodejs.org/)
